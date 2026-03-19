@@ -28,6 +28,7 @@ With over 30 years of experience in technology, government, fintech, and educati
 Here are some projects I'm currently working on or have built for fun and learning:
 
 - **[ai-stack](https://github.com/L-A-bit/ai-stack)** – A proof-of-concept exploring offline LLMs using OpenLama and Hugging Face.
+- **[astralia](https://github.com/L-A-bit/astralia)** – An astrological prototyping PWA.
 - *(Coming soon)* Educational game project (collaboration with an artist friend).
 
 ---
