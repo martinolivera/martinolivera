@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Martín Olivera
 
-I help organizations and professionals leverage **Open Source**, **Software Architecture**, **Linuix** and **AI**.
+I help organizations and professionals leverage **Open Source**, **Software Architecture**, **Linux** and **AI**.
 
 With over 30 years of experience in technology, government, fintech, and education, I offer training (courses, workshops, bootcamps) and consulting on legacy system migration, open source implementation, and AI strategy.
 
